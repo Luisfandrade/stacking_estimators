@@ -9,7 +9,6 @@ A simple exploration of the benefits of stacking ML estimators applied to the ic
 * To implement a stacking of several well-known shallow estimators
 * To apply the stacking result to the [Titanick survival](https://www.kaggle.com/c/titanic) problem and evaluate its performance
 
-(https://en.wikipedia.org/wiki/RMS_Titanic#/media/File:RMS_Titanic_3.jpg)
 
 ## Dataset
 
@@ -18,4 +17,4 @@ The Dataset is the famous Titanick survival data, which contains information abo
 The dataset contains hundreds of passengers with a total of 12 fields
 
 ## Usage
-Use jupyter notebook to open '''Titanic Stacking.ipynb'''
+Use jupyter notebook to open `Titanic Stacking.ipynb`
